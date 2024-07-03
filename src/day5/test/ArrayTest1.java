@@ -67,8 +67,6 @@ public class ArrayTest1 {
             }
         }
 
-
-
         //5. 遍历结束后，将求和结果打印
         System.out.println("偶数和是 " + sum);
     }

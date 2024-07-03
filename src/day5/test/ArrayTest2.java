@@ -47,7 +47,6 @@ public class ArrayTest2 {
         return max;
     }
 
-
     /**
      * 寻找数组最小值
      *
