@@ -27,6 +27,7 @@ public class RandomDemo {
 //        Demand: Generate random numbers between 20~80
         for (int i = 0; i < 3; i++) {
 
+
             int num = r.nextInt(61) + 20;
 
             System.out.println(num);
