@@ -24,7 +24,7 @@ public class Test1 {
 //            根据规则加入if判断
             if (ge == 7 || shi == 7 || i % 7 == 0){
 //                打印出满足规则的数据
-                System.out.println("i");
+                System.out.println(i);
             }
         }
     }
